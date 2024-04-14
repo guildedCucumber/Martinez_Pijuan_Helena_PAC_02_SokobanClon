@@ -1,0 +1,155 @@
+{
+    "level": 10,
+    "tiles": [
+        {
+            "x": 0,
+            "y": 0,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "wall": false,
+            "content": "box"
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "wall": true,
+            "content": ""
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "wall": true,
+            "content": ""
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "wall": false,
+            "content": "box"
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "wall": false,
+            "content": "box"
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "wall": false,
+            "content": ""
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "wall": false,
+            "content": "finish"
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "wall": false,
+            "content": "finish"
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "wall": false,
+            "content": "finish"
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "wall": true,
+            "content": ""
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "wall": false,
+            "content": "player"
+        }       
+    ]
+}
